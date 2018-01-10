@@ -1,0 +1,82 @@
+#title{
+	margin-left: 40px;
+	}
+#nav-mobile{
+	margin-right: 40px;
+}
+#rule{
+	font-style: arial;
+	color: #528B8B;
+	margin-bottom: 40px;
+}
+
+#coin-no{ 
+	margin-right: 30px;
+	margin-top:15px;
+	font-size: 40px;
+	font: #FFD700;
+	}
+#levelfont{
+	font: #00FF00;
+	}
+#start
+{
+	margin-top: 85px;
+	margin-bottom: 85px;
+	}
+
+#nextbutton{
+	margin-top: 50px;
+	}
+	
+.footer{ margin-top: 130px;
+}
+.page-footer{
+	padding: 50px 50px 50px 60px;
+	background-color: #2196f3;
+}
+
+table #intable tr td{
+	padding-bottom:15px;
+	padding: 0px 0px 0px 0px;
+	}
+#intable{
+	margin-bottom: 10px;
+	}
+#imgcoin{
+	width: 43px;
+	height: 36px;
+	padding-left: 10px;
+	}
+#imgcoinuf{
+	width: 17px;
+	height: 17px;
+	}
+#imgcoin1{
+	width: 20px;
+	height: 20px;
+	}
+#imgclock{
+	width: 40px;
+	height: 36px;
+	padding-right: 2px;
+	}
+#tsbtn{
+	margin-right: 10px;
+	background-color: #98F5FF;
+	}
+#email
+{
+	padding-right: 45px;
+	}
+#password
+{
+	padding-right: 20px;
+}
+#loginbtn,#signupbtn,#chpwd,#ch_username,#ch_pwd,#congrat{
+	margin-bottom: 22px;
+	}
+#username{padding-right: 33px;}
+#semail{padding-right: 58px;}
+#spassword{padding-right: 38px;}
+#repwd{padding-right: 10px;
